@@ -14,6 +14,7 @@ O código, gerado em Python 3, exige a instalação das seguintes bibliotecas:
 
 Para instalá-la, é necessário executar o comando a seguir:
 
+'''python
 python3 -m pip install Flask
 
 # Etapas para execução:
@@ -22,6 +23,7 @@ python3 -m pip install Flask
  
  Executar o  comando a seguir:
  
+ '''python
  python3 agent.py
  
  - API:
