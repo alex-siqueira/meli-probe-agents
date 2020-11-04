@@ -32,4 +32,6 @@ python3 -m pip install Flask
  
  Executar o comando a seguir:
  
+  ```python
  python3 api.py
+ ```
